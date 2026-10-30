@@ -79,3 +79,12 @@ Secure_Authentication_System/
 Developed as a Python Flask project.
 
 ### Output
+
+<img width="1087" height="908" alt="Screenshot 2026-10-30 141156" src="https://github.com/user-attachments/assets/43872681-f97e-44f2-a5bc-53d1073807f4" />
+
+<img width="1030" height="841" alt="Screenshot 2026-10-30 141210" src="https://github.com/user-attachments/assets/1df13fa7-41f4-4077-b45c-b30debdefa9d" />
+
+<img width="1051" height="837" alt="Screenshot 2026-10-30 141253" src="https://github.com/user-attachments/assets/fe6aa1ba-1818-4007-b21c-08ddb33c2e1d" />
+
+<img width="1040" height="831" alt="Screenshot 2026-10-30 141301" src="https://github.com/user-attachments/assets/d7fc2c52-e68d-4eaf-a6df-19d9a659478c" />
+
