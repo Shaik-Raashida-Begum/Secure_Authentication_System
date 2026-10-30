@@ -1,0 +1,101 @@
+
+/* General page styling */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Main container */
+.container {
+    width: 380px;
+    padding: 35px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Headings */
+h1, h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+}
+
+/* Input labels */
+label {
+    display: block;
+    text-align: left;
+    margin-top: 15px;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Input fields */
+input {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    outline: none;
+}
+
+input:focus {
+    border-color: #667eea;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 22px;
+    background: #667eea;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #5265c9;
+}
+
+/* Links */
+a {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Messages */
+.message {
+    color: #d93025;
+    font-size: 14px;
+}
+
+/* Dashboard */
+.dashboard {
+    width: 450px;
+}
+
+.dashboard-content {
+    background: #f3f4ff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
